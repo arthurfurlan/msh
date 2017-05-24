@@ -1,5 +1,5 @@
 # msh
-msh is command line script used as wrapper to run "mosh" if available with "ssh" as a fallback.
+msh is command line script used as wrapper to run "mosh" with "ssh" as a fallback... because life is too short to manually test both of them.
 
 ## Usage
 
